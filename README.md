@@ -17,4 +17,4 @@ For good programming practice, we should achieve >80% unit testing coverage. Due
 
 ### JWT Bearer authentication covered _Create_, _Update_ and _Delete_.
 
-We should have _Role Based Access Control_ to have a achieve better authentication/authorisation practice. Due to time limitation, I only implemented the most basic authentication, i.e. protect the _non-idempotent_ operations.
+We should have _Role Based Access Control_ to have a achieve better authentication/authorisation practice. Specifically, assign user _roles_, but use _permissions_ to control the access. Due to time limitation, I only implemented the most basic authentication, i.e. protecting the _non-idempotent_ operations.
