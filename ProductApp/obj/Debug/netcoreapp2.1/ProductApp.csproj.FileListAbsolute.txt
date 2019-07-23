@@ -1,0 +1,14 @@
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.RazorAssemblyInfo.cache
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.RazorAssemblyInfo.cs
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.AssemblyInfoInputs.cache
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.AssemblyInfo.cs
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.deps.json
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.runtimeconfig.json
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.runtimeconfig.dev.json
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.dll
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.pdb
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.RazorTargetAssemblyInfo.cache
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.dll
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.pdb
+C:\Users\mluoa\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.csprojAssemblyReference.cache
